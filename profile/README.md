@@ -2,10 +2,12 @@
 
 ## About Codenteq Team
 
-As the Codenteq team, which was established in 2021, we are a team that contributes by developing open source projects in Turkey and around the world.
+Codenteq is a software & technology company that actively maintains and contributes to open source projects.
 
-Our aim is to develop open source projects in Turkey and around the world and bring learning-oriented innovations. At the same time, by encouraging young Turkish software developers to these innovations, to give them the opportunity to learn. To provide an easy development environment for other software developers by creating a clean code architecture in our work.
+The Codenteq team has been developing open source software used by developers and businesses in Turkey and around the world. Our focus is on building clean, maintainable, and scalable systems that are easy to understand, extend, and contribute to.
 
-We are able to develop web and mobile-based software, and we make sure that our projects are innovative and that our projects are open to development by other software developers.
+We believe open source is a key driver of learning and collaboration. Through our projects, we aim to support developers—especially those early in their careers—by providing well-structured codebases and real-world solutions.
 
-As Turkish software developers, we are a team working on open source projects of the future.
+While Codenteq delivers professional software solutions for businesses, our open source projects and community-driven work continue independently and remain a core part of who we are.
+
+We build with care, share with purpose, and grow with the community.
