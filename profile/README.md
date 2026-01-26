@@ -4,7 +4,7 @@
 
 Codenteq is a software & technology company that actively maintains and contributes to open source projects.
 
-The Codenteq team has been developing open source software used by developers and businesses in Turkey and around the world. Our focus is on building clean, maintainable, and scalable systems that are easy to understand, extend, and contribute to.
+The Codenteq team has been developing open source software used by developers and businesses in Türkiye and around the world. Our focus is on building clean, maintainable, and scalable systems that are easy to understand, extend, and contribute to.
 
 We believe open source is a key driver of learning and collaboration. Through our projects, we aim to support developers—especially those early in their careers—by providing well-structured codebases and real-world solutions.
 
